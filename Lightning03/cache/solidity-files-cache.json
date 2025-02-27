@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\zflip\\Zhangyan\\1_PaymentChannel\\Ethereum_program\\Lightning03\\contracts\\LightningChannel.sol": {
+      "lastModificationDate": 1732492830555,
+      "contentHash": "c31d78e9ac51db164a6c7b597eb5d9e7",
+      "sourceName": "contracts/LightningChannel.sol",
+      "solcConfig": {
+        "version": "0.8.27",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "LightningChannel"
+      ]
+    }
+  }
+}
